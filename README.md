@@ -1,7 +1,7 @@
 # wifite-mod
 
 ## Change log
-
+https://github.com/derv82/wifite/issues/54
 
 ## Change list
 

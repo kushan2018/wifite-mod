@@ -1,5 +1,11 @@
 # wifite-mod
 
+## Notice
+
+*Plz pay a attension on new version*
+https://github.com/darkr4y/wifite2plus
+
+
 ## Change log
 https://github.com/derv82/wifite/issues/54
 
